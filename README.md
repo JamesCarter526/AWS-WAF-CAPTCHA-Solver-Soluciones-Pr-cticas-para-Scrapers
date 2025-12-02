@@ -1,3 +1,6 @@
+![img_v3_02sj_a97319dd-0771-42c9-bc7d-0a1d6d0b05bg](https://github.com/user-attachments/assets/c390bd69-cafd-4fee-8fc3-c0445ce8fc03)
+
+
 
 
 A medida que los desarrolladores de scrapers y los ingenieros de automatización crean nuevos métodos para recopilar datos, los proveedores de seguridad como Amazon Web Services (AWS) fortalecen continuamente sus defensas. Entre las más formidables se encuentra AWS WAF CAPTCHA, un mecanismo diseñado para distinguir el tráfico humano legítimo de los bots. Para proyectos de automatización serios—especialmente en escenarios de tecnología legal o verificación de antecedentes—resolver AWS WAF CAPTCHA no es solo conveniente; es una necesidad técnica.
@@ -55,8 +58,7 @@ Independientemente del tipo de desafío, el enfoque central es utilizar un soluc
 
 Visita el Dashboard de [CapSolver](https://www.capsolver.com/?utm_source=github&utm_medium=blog&utm_campaign=aws&utm_term=JamesC) y usa el código CAPN al recargar tu cuenta para recibir un 5% adicional en cada recarga.
 
- ![Uploading image.png…]()
-
+ 
 
 **1. Automatización basada en navegador con carga de extensión**
 
